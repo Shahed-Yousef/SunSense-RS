@@ -31,4 +31,4 @@ Developed as a university programming project at Abdullah Al Salem University, c
 
 ## Presentation
 
-Project presentation link will be added here.
+[View the SunSense-RS Project Presentation](https://drive.google.com/file/d/16p6atTra5rWLmu42rhqgEsO1xgKjcSiZ/view?usp=drivesdk)
